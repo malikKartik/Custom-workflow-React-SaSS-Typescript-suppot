@@ -4,7 +4,7 @@ You can clone and use this repo to make small prototypes without install any gig
 
 `git clone https://github.com/malikKartik/Custom-workflow-React-SaSS-Typescript-suppot.git`
 
-Then to install all the dependencies use
+Then to install all the dependencies use<br>
 `yarn`<br>
 OR<br>
 `npm install`
